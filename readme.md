@@ -9,3 +9,8 @@
 -->
 carrot-wrap-jgit
 ================
+
+this is jgit with "require-bundle" fixed
+
+http://www.eclipse.org/jgit/download/
+
